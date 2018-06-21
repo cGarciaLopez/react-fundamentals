@@ -1,0 +1,14 @@
+TODO: getAll para obtener los libros
+
+  Implementar metodo de enrutamiento para redirigir a la página de listado o de busqueda.
+    Instalo react-router-dom
+    Dos nuevos objetos:
+      BooksList : listado de  los libros
+      BooksSearch: búsqueda de libros.
+
+    Cuando se actualiza el estado de un libro, se actualiza en cliente y  en servidor
+      TODO:  actualizar en servidor, usando el API
+
+      ---------------------------------------------------
+      Seleccionar estado en pagina de buscador
+      Actualizar estado en servidor de todos.
